@@ -1,0 +1,226 @@
+D:\work\projetos\leitorCC\bin\Debug\net9.0\leitorCC.exe
+D:\work\projetos\leitorCC\bin\Debug\net9.0\leitorCC.deps.json
+D:\work\projetos\leitorCC\bin\Debug\net9.0\leitorCC.runtimeconfig.json
+D:\work\projetos\leitorCC\bin\Debug\net9.0\leitorCC.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\leitorCC.pdb
+D:\work\projetos\leitorCC\bin\Debug\net9.0\pteidlib_dotnet8+.dll
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.csproj.AssemblyReference.cache
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.AssemblyInfoInputs.cache
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.AssemblyInfo.cs
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.csproj.CoreCompileInputs.cache
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.csproj.Up2Date
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.dll
+D:\work\projetos\leitorCC\obj\Debug\net9.0\refint\leitorCC.dll
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.pdb
+D:\work\projetos\leitorCC\obj\Debug\net9.0\leitorCC.genruntimeconfig.cache
+D:\work\projetos\leitorCC\obj\Debug\net9.0\ref\leitorCC.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.ServiceProcess.ServiceController.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.ServiceProcess.ServiceController.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Azure.Core.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Azure.Identity.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.ClientModel.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.Memory.Data.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\work\projetos\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\leitorCC.exe
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\leitorCC.deps.json
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\leitorCC.runtimeconfig.json
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\leitorCC.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\leitorCC.pdb
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Azure.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Azure.Identity.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.ClientModel.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.Memory.Data.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\System.ServiceProcess.ServiceController.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.ServiceProcess.ServiceController.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\pteidlib_dotnet8+.dll
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.csproj.AssemblyReference.cache
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.AssemblyInfoInputs.cache
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.AssemblyInfo.cs
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.csproj.CoreCompileInputs.cache
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.sourcelink.json
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.csproj.Up2Date
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.dll
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\refint\leitorCC.dll
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.pdb
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\leitorCC.genruntimeconfig.cache
+D:\work\Nova pasta\leitorCC\obj\Debug\net9.0\ref\leitorCC.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\Pkcs11Interop.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\PCSC.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\PCSC.Iso7816.dll
+D:\work\Nova pasta\leitorCC\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\leitorCC.exe
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\leitorCC.deps.json
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\leitorCC.runtimeconfig.json
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\leitorCC.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\leitorCC.pdb
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Azure.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Azure.Identity.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\PCSC.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\PCSC.Iso7816.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\Pkcs11Interop.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.ClientModel.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.Memory.Data.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\System.ServiceProcess.ServiceController.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.ServiceProcess.ServiceController.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Debug\net9.0\pteidlib_dotnet8+.dll
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.csproj.AssemblyReference.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.AssemblyInfoInputs.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.AssemblyInfo.cs
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.csproj.CoreCompileInputs.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.sourcelink.json
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.csproj.Up2Date
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.dll
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\refint\leitorCC.dll
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.pdb
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\leitorCC.genruntimeconfig.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Debug\net9.0\ref\leitorCC.dll

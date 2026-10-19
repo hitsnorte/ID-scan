@@ -1,0 +1,1141 @@
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.csproj.AssemblyReference.cache
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.AssemblyInfoInputs.cache
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.AssemblyInfo.cs
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.csproj.CoreCompileInputs.cache
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\leitorCC.exe
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\leitorCC.deps.json
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\leitorCC.runtimeconfig.json
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\leitorCC.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\leitorCC.pdb
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Win32.Registry.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Collections.Immutable.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Collections.Specialized.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Console.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Memory.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Private.CoreLib.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Metadata.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Text.Json.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Thread.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.ThreadPool.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\pteidlib_dotnet8+.dll
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.csproj.Up2Date
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.dll
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\refint\leitorCC.dll
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.pdb
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\leitorCC.genruntimeconfig.cache
+D:\work\projetos\leitorCC\obj\Release\net9.0\win-x64\ref\leitorCC.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ServiceProcess.ServiceController.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Azure.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Azure.Identity.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.SqlServer.Server.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ClientModel.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Data.SqlClient.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Memory.Data.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\cs\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\de\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\es\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\fr\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\it\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\ja\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\ko\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\pl\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\ru\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\tr\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\sni.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.CSharp.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.VisualBasic.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.AppContext.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Buffers.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Collections.Concurrent.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Collections.NonGeneric.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Collections.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.Annotations.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Configuration.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Data.Common.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Data.DataSetExtensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Data.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Contracts.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Debug.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Process.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Tools.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Tracing.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Drawing.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Drawing.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Dynamic.Runtime.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Formats.Asn1.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Formats.Tar.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Globalization.Calendars.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Globalization.Extensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Globalization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.Brotli.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.IsolatedStorage.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Pipelines.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Pipes.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Linq.Expressions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Linq.Parallel.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Linq.Queryable.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Linq.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Http.Json.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Http.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.HttpListener.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Mail.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.NameResolution.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.NetworkInformation.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Ping.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Quic.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Requests.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Security.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.ServicePoint.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.Sockets.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebClient.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebProxy.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebSockets.Client.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebSockets.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Net.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Numerics.Vectors.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Numerics.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ObjectModel.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Private.DataContractSerialization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Private.Uri.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Private.Xml.Linq.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Private.Xml.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Emit.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Extensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Resources.Reader.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Resources.ResourceManager.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Resources.Writer.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Extensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Handles.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Intrinsics.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Loader.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Numerics.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.AccessControl.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Claims.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Principal.Windows.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Principal.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.SecureString.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ServiceModel.Web.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ServiceProcess.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encoding.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encodings.Web.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Text.RegularExpressions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Channels.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Overlapped.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Timer.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Transactions.Local.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Transactions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.ValueTuple.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Web.HttpUtility.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Web.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Windows.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.Linq.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.ReaderWriter.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.Serialization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XDocument.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XPath.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XmlDocument.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XmlSerializer.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Xml.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\WindowsBase.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\mscorlib.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\netstandard.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Session.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.StaticAssets.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Features.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Http.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Localization.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.JSInterop.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Net.Http.Headers.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.Threading.RateLimiting.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.Native.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\clretwrc.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\clrgc.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\clrgcexp.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\clrjit.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\coreclr.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\createdump.exe
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\hostfxr.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\hostpolicy.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\mscordaccore.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\mscordaccore_amd64_amd64_9.0.925.41916.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\mscordbi.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\mscorrc.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\msquic.dll
+D:\work\projetos\leitorCC\bin\Release\net9.0\win-x64\aspnetcorev2_inprocess.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\leitorCC.exe
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\leitorCC.deps.json
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\leitorCC.runtimeconfig.json
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\leitorCC.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\leitorCC.pdb
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Azure.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Azure.Identity.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.SqlServer.Server.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Pkcs11Interop.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ClientModel.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Memory.Data.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ServiceProcess.ServiceController.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\cs\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\de\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\es\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\fr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\it\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\ja\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\ko\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\pl\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\ru\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\tr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\sni.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.CSharp.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.VisualBasic.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Win32.Registry.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.AppContext.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Buffers.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Collections.Concurrent.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Collections.Immutable.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Collections.NonGeneric.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Collections.Specialized.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Collections.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.Annotations.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ComponentModel.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Configuration.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Console.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Data.Common.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Data.DataSetExtensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Data.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Contracts.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Debug.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Process.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Tools.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.Tracing.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Drawing.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Drawing.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Dynamic.Runtime.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Formats.Asn1.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Formats.Tar.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Globalization.Calendars.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Globalization.Extensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Globalization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.Brotli.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.FileSystem.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.IsolatedStorage.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Pipelines.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Pipes.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Linq.Expressions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Linq.Parallel.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Linq.Queryable.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Linq.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Memory.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Http.Json.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Http.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.HttpListener.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Mail.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.NameResolution.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.NetworkInformation.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Ping.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Quic.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Requests.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Security.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.ServicePoint.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.Sockets.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebClient.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebProxy.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebSockets.Client.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.WebSockets.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Net.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Numerics.Vectors.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Numerics.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ObjectModel.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Private.CoreLib.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Private.DataContractSerialization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Private.Uri.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Private.Xml.Linq.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Private.Xml.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Emit.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Extensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Metadata.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Reflection.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Resources.Reader.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Resources.ResourceManager.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Resources.Writer.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Extensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Handles.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Intrinsics.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Loader.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Numerics.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.Serialization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Runtime.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.AccessControl.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Claims.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Principal.Windows.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Principal.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.SecureString.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ServiceModel.Web.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ServiceProcess.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encoding.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Text.Encodings.Web.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Text.Json.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Text.RegularExpressions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Channels.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Overlapped.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Tasks.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Thread.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.ThreadPool.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.Timer.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Transactions.Local.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Transactions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.ValueTuple.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Web.HttpUtility.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Web.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Windows.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.Linq.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.ReaderWriter.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.Serialization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XDocument.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XPath.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XmlDocument.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.XmlSerializer.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Xml.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\WindowsBase.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\mscorlib.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\netstandard.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Session.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.StaticAssets.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Features.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Http.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Localization.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.JSInterop.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.Net.Http.Headers.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.Threading.RateLimiting.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\System.IO.Compression.Native.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\clretwrc.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\clrgc.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\clrgcexp.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\clrjit.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\coreclr.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\createdump.exe
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\hostfxr.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\hostpolicy.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\mscordaccore.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\mscordaccore_amd64_amd64_9.0.925.41916.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\mscordbi.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\mscorrc.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\msquic.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\aspnetcorev2_inprocess.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\pteidlib_dotnet8+.dll
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.csproj.AssemblyReference.cache
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.AssemblyInfoInputs.cache
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.AssemblyInfo.cs
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.csproj.CoreCompileInputs.cache
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.sourcelink.json
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.csproj.Up2Date
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.dll
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\refint\leitorCC.dll
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.pdb
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\leitorCC.genruntimeconfig.cache
+D:\work\Nova pasta\leitorCC\obj\Release\net9.0\win-x64\ref\leitorCC.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\PCSC.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\PCSC.Iso7816.dll
+D:\work\Nova pasta\leitorCC\bin\Release\net9.0\win-x64\BouncyCastle.Cryptography.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\leitorCC.exe
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\leitorCC.deps.json
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\leitorCC.runtimeconfig.json
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\leitorCC.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\leitorCC.pdb
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Azure.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Azure.Identity.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\BouncyCastle.Cryptography.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Logging.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.SqlServer.Server.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\PCSC.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\PCSC.Iso7816.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Pkcs11Interop.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ClientModel.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Data.SqlClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Memory.Data.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ServiceProcess.ServiceController.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\cs\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\de\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\es\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\fr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\it\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\ja\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\ko\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\pl\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\ru\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\tr\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\sni.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.CSharp.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.VisualBasic.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Win32.Registry.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.AppContext.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Buffers.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Collections.Concurrent.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Collections.Immutable.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Collections.NonGeneric.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Collections.Specialized.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Collections.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ComponentModel.Annotations.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ComponentModel.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ComponentModel.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Configuration.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Console.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Data.Common.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Data.DataSetExtensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Data.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.Contracts.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.Debug.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.Process.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.Tools.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.Tracing.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Drawing.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Drawing.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Dynamic.Runtime.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Formats.Asn1.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Formats.Tar.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Globalization.Calendars.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Globalization.Extensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Globalization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Compression.Brotli.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Compression.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.FileSystem.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.IsolatedStorage.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Pipelines.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Pipes.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Linq.Expressions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Linq.Parallel.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Linq.Queryable.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Linq.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Memory.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Http.Json.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Http.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.HttpListener.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Mail.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.NameResolution.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.NetworkInformation.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Ping.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Quic.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Requests.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Security.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.ServicePoint.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.Sockets.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.WebClient.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.WebProxy.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.WebSockets.Client.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.WebSockets.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Net.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Numerics.Vectors.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Numerics.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ObjectModel.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Private.CoreLib.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Private.DataContractSerialization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Private.Uri.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Private.Xml.Linq.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Private.Xml.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.Emit.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.Extensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.Metadata.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Reflection.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Resources.Reader.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Resources.ResourceManager.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Resources.Writer.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Extensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Handles.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.InteropServices.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Intrinsics.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Loader.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Numerics.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.Serialization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Runtime.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.AccessControl.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Claims.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Principal.Windows.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Principal.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.SecureString.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ServiceModel.Web.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ServiceProcess.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Text.Encoding.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Text.Encodings.Web.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Text.Json.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Text.RegularExpressions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Channels.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Overlapped.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Tasks.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Thread.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.ThreadPool.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.Timer.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Transactions.Local.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Transactions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.ValueTuple.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Web.HttpUtility.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Web.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Windows.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.Linq.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.ReaderWriter.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.Serialization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.XDocument.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.XPath.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.XmlDocument.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.XmlSerializer.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Xml.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\WindowsBase.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\mscorlib.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\netstandard.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authentication.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Authorization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Components.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cors.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Hosting.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Http.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Identity.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Localization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Metadata.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Mvc.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.OutputCaching.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.RateLimiting.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Razor.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.RequestDecompression.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Routing.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.Session.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.SignalR.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.StaticAssets.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.AspNetCore.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Configuration.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Diagnostics.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Features.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Hosting.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Http.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Identity.Core.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Localization.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Logging.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.ObjectPool.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Extensions.WebEncoders.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.JSInterop.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.Net.Http.Headers.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.Threading.RateLimiting.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\System.IO.Compression.Native.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\clretwrc.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\clrgc.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\clrgcexp.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\clrjit.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\coreclr.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\createdump.exe
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\hostfxr.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\hostpolicy.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\mscordaccore.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\mscordaccore_amd64_amd64_9.0.925.41916.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\mscordbi.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\mscorrc.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\msquic.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\aspnetcorev2_inprocess.dll
+D:\work\Nova pasta\leitorCC - Cópia\bin\Release\net9.0\win-x64\pteidlib_dotnet8+.dll
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.csproj.AssemblyReference.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.AssemblyInfoInputs.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.AssemblyInfo.cs
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.csproj.CoreCompileInputs.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.sourcelink.json
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.csproj.Up2Date
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.dll
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\refint\leitorCC.dll
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.pdb
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\leitorCC.genruntimeconfig.cache
+D:\work\Nova pasta\leitorCC - Cópia\obj\Release\net9.0\win-x64\ref\leitorCC.dll

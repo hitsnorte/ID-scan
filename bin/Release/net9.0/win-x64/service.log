@@ -1,0 +1,18 @@
+2026-03-31 14:58:05 | SERVICE STARTING
+2026-03-31 14:58:05 | SERVICE STARTED
+2026-03-31 14:58:05 | SDK INITIALIZED
+2026-03-31 14:58:06 | CARD DETECTED
+2026-03-31 14:58:07 | ERROR: pt.portugal.eid.PTEID_ExNoCardPresent: Error in the application.
+   at pt.portugal.eid.PTEID_EId.getGivenName()
+   at LeitorCCService.DatabaseWindowsService.WorkerLoop() in D:\work\projetos\leitorCC\Program.cs:line 76
+2026-03-31 14:58:40 | CARD DETECTED
+2026-03-31 14:58:52 | ERROR: pt.portugal.eid.PTEID_ExParamRange: Error in the application.
+   at pt.portugal.eid.PTEID_Address.getCountryCode()
+   at LeitorCCService.DatabaseWindowsService.WorkerLoop() in D:\work\projetos\leitorCC\Program.cs:line 76
+2026-03-31 14:58:55 | CARD DETECTED
+2026-03-31 14:59:01 | CARD DATA READ:
+2026-03-31 14:59:01 | {"name":"SIMONE MARIA","lastName":"MACHADO DOS SANTOS","documentNr":"30748038 0 ZX2","civilNumber":"307480380","birthDate":"25 05 2001","nationality":"PRT","gender":"F","expirationDate":"21 10 2026","country":"PT","district":"Porto","municipality":"Paredes","street":"Padre Moreira das Neves,","door":"n\u00BA Lote 3,","floor":"1\u00BA, Dt.\u00BA","postalCode":"4580-162","locality":"PAREDES"}
+2026-03-31 14:59:02 | DADOS INSERIDOS NA BASE DE DADOS COM SUCESSO
+2026-03-31 14:59:26 | CARD REMOVED
+2026-03-31 15:11:30 | SDK RELEASED
+2026-03-31 15:11:30 | SERVICE STOPPED

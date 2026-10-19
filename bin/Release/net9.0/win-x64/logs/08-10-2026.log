@@ -1,0 +1,63 @@
+2026-10-08 09:32:48 | SERVICE STARTING
+2026-10-08 09:32:48 | SERVICE STARTED
+2026-10-08 09:32:50 | SDK INITIALIZED
+2026-10-08 09:32:55 | CARTÃO DETETADO
+2026-10-08 09:33:05 | CARTÃO PT LIDO
+2026-10-08 09:33:06 | {"Name":"SIMONE MARIA","LastName":"MACHADO DOS SANTOS","DocumentNr":"30748038 0 ZW4","TaxNumber":"243789963","BirthDate":"2001-05-25","Nationality":"PRT","Gender":"F","ExpirationDate":"2036-09-22","Country":"PT","District":"Porto","Municipality":"Paredes","Street":"Padre Moreira das Neves,, n\u00BA Lote 3,, 1\u00BA, Dt.\u00BA","PostalCode":"4580-162","Locality":"PAREDES"}
+2026-10-08 09:33:06 | ERRO AO INSERIR NA BASE DE DADOS: System.IO.FileNotFoundException: connectionString.txt não encontrado.
+   at LeitorCCService.DatabaseWindowsService.LoadConnectionString() in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 229
+   at LeitorCCService.DatabaseWindowsService.SaveToDatabase(CardData card) in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 164
+2026-10-08 09:38:36 | CARTÃO REMOVIDO
+2026-10-08 09:38:36 | SDK RELEASED
+2026-10-08 09:38:36 | SERVICE STOPPED
+2026-10-08 09:39:44 | SERVICE STARTING
+2026-10-08 09:39:44 | SERVICE STARTED
+2026-10-08 09:39:44 | SDK INITIALIZED
+2026-10-08 09:39:51 | CARTÃO DETETADO
+2026-10-08 09:39:59 | CARTÃO PT LIDO
+2026-10-08 09:39:59 | {"Name":"Simone Maria","LastName":"Machado Dos Santos","DocumentNr":"30748038 0 ZW4","TaxNumber":"243789963","BirthDate":"2001-05-25","Nationality":"PRT","Gender":"F","ExpirationDate":"2036-09-22","Country":"PT","District":"Porto","Municipality":"Paredes","Street":"Padre Moreira das Neves,, n\u00BA Lote 3,, 1\u00BA, Dt.\u00BA","PostalCode":"4580-162","Locality":"PAREDES"}
+2026-10-08 09:39:59 | ERRO AO INSERIR NA BASE DE DADOS: System.IO.FileNotFoundException: connectionString.txt não encontrado.
+   at LeitorCCService.DatabaseWindowsService.LoadConnectionString() in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 229
+   at LeitorCCService.DatabaseWindowsService.SaveToDatabase(CardData card) in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 164
+2026-10-08 09:40:56 | CARTÃO REMOVIDO
+2026-10-08 09:41:03 | SDK RELEASED
+2026-10-08 09:41:03 | SERVICE STOPPED
+2026-10-08 09:42:00 | SERVICE STARTING
+2026-10-08 09:42:00 | SERVICE STARTED
+2026-10-08 09:42:00 | SDK INITIALIZED
+2026-10-08 09:42:04 | CARTÃO DETETADO
+2026-10-08 09:42:13 | CARTÃO PT LIDO
+2026-10-08 09:42:13 | {"Name":"Simone Maria","LastName":"Machado Dos Santos","DocumentNr":"30748038 0 ZW4","TaxNumber":"243789963","BirthDate":"2001-05-25","Nationality":"PRT","Gender":"F","ExpirationDate":"2036-09-22","Country":"PT","District":"Porto","Municipality":"Paredes","Street":"Padre Moreira das Neves,, n\u00BA Lote 3,, 1\u00BA, Dt.\u00BA","PostalCode":"4580-162","Locality":"Paredes"}
+2026-10-08 09:42:13 | ERRO AO INSERIR NA BASE DE DADOS: System.IO.FileNotFoundException: connectionString.txt não encontrado.
+   at LeitorCCService.DatabaseWindowsService.LoadConnectionString() in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 229
+   at LeitorCCService.DatabaseWindowsService.SaveToDatabase(CardData card) in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 164
+2026-10-08 09:42:46 | CARTÃO REMOVIDO
+2026-10-08 09:42:54 | CARTÃO DETETADO
+2026-10-08 09:43:01 | CARTÃO PT LIDO
+2026-10-08 09:43:01 | {"Name":"Simone Maria","LastName":"Machado Dos Santos","DocumentNr":"30748038 0 ZW4","TaxNumber":"243789963","BirthDate":"2001-05-25","Nationality":"PRT","Gender":"F","ExpirationDate":"2036-09-22","Country":"PT","District":"Porto","Municipality":"Paredes","Street":"Padre Moreira das Neves,, n\u00BA Lote 3,, 1\u00BA, Dt.\u00BA","PostalCode":"4580-162","Locality":"Paredes"}
+2026-10-08 09:43:01 | ERRO AO INSERIR NA BASE DE DADOS: System.IO.FileNotFoundException: connectionString.txt não encontrado.
+   at LeitorCCService.DatabaseWindowsService.LoadConnectionString() in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 229
+   at LeitorCCService.DatabaseWindowsService.SaveToDatabase(CardData card) in D:\work\Nova pasta\leitorCC - Cópia\Program.cs:line 164
+2026-10-08 09:43:13 | CARTÃO REMOVIDO
+2026-10-08 09:43:16 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:17 | SDK REINITIALIZED
+2026-10-08 09:43:17 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:18 | SDK REINITIALIZED
+2026-10-08 09:43:18 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:19 | SDK REINITIALIZED
+2026-10-08 09:43:19 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:20 | SDK REINITIALIZED
+2026-10-08 09:43:20 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:21 | SDK REINITIALIZED
+2026-10-08 09:43:21 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:22 | SDK REINITIALIZED
+2026-10-08 09:43:22 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:23 | SDK REINITIALIZED
+2026-10-08 09:43:23 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:24 | SDK REINITIALIZED
+2026-10-08 09:43:24 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:25 | SDK REINITIALIZED
+2026-10-08 09:43:25 | WARNING: Leitor desconectado: Error in the application.
+2026-10-08 09:43:26 | SDK REINITIALIZED
+2026-10-08 09:43:26 | SDK RELEASED
+2026-10-08 09:43:26 | SERVICE STOPPED

@@ -1,0 +1,5 @@
+D:\work\projetos\leitorCC\obj\Debug\net8.0\leitorCC.csproj.AssemblyReference.cache
+D:\work\projetos\leitorCC\obj\Debug\net8.0\leitorCC.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\projetos\leitorCC\obj\Debug\net8.0\leitorCC.AssemblyInfoInputs.cache
+D:\work\projetos\leitorCC\obj\Debug\net8.0\leitorCC.AssemblyInfo.cs
+D:\work\projetos\leitorCC\obj\Debug\net8.0\leitorCC.csproj.CoreCompileInputs.cache

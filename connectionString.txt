@@ -1,0 +1,1 @@
+Server=192.168.145.4;Database=protelDemoRC;User id=proteluser;Password=protel915930;Integrated Security=False;MultipleActiveResultSets=True;
